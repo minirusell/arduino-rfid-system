@@ -1,4 +1,4 @@
-# arduino-fall-detector
+# arduino-rfid-system
 # RFID Access / Identification System (Arduino)
 
 Proyecto académico en Arduino para lectura e identificación mediante tecnología **RFID**.
