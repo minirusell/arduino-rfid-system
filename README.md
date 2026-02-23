@@ -31,8 +31,8 @@ Este proyecto está orientado a practicar:
 
 ## Componentes usados
 
-- Arduino (placa compatible)
-- Módulo RFID (habitualmente MFRC522 u otro similar)
+- Arduino
+- Módulo RFID
 - Tags / tarjetas RFID
 
 ---
@@ -55,7 +55,7 @@ Este proyecto está orientado a practicar:
 ## Cómo ejecutar
 
 1. Abrir `RFID.ino` en el **Arduino IDE**
-2. Instalar la librería del módulo RFID (por ejemplo, `MFRC522`, si aplica)
+2. Instalar la librería del módulo RFID
 3. Conectar el módulo RFID a la placa (SPI)
 4. Seleccionar placa y puerto
 5. Subir el programa
